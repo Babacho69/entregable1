@@ -1,8 +1,6 @@
 import './App.css';
-import CompTwo from './Quotes';
 import QuoteBox from './QuoteBox';
-import quotes from './quotes.json';
-import Quotes from './Quotes';
+
 
 
 function App() {
